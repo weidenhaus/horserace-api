@@ -2,6 +2,8 @@
 
 A real-time virtual horse racing simulation using Server-Sent Events (SSE) for live updates across multiple browser sessions.
 
+This is the API. Find the repository for the frontend app at https://github.com/weidenhaus/horserace-app
+
 ![Horse Racing Demo](./img/screenshot.jpg)
 
 ## Features
